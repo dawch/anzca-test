@@ -485,48 +485,6 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "chris 2", 
-                "chris 2", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "nV`:1|Q-P!", 
-            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "chris 3", 
-                "chris 3", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "p@I$c]qba?", 
-            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "chris 4", 
-                "", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "rBaXa(8(;y", 
-            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
                 "Andrew Test 2", 
                 "Test 2", 
                 "", 
@@ -569,8 +527,50 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "chris test 5", 
-                "chris test 5", 
+                "chris 2", 
+                "chris 2", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "nV`:1|Q-P!", 
+            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "chris 3", 
+                "chris 3", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "p@I$c]qba?", 
+            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "chris 4", 
+                "", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "rBaXa(8(;y", 
+            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "chris test 51", 
+                "chris test 51", 
                 "", 
                 ""
             ], 
