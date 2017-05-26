@@ -564,23 +564,6 @@
             "guid": "rBaXa(8(;y", 
             "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
             "tags": []
-<<<<<<< HEAD
-=======
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "chris test 51", 
-                "chris test 51", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "I!N#:HDdtH", 
-            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
-            "tags": []
->>>>>>> fea542ed09ce732e11d80a57a3bc5c7e2ff7a269
         }
     ]
 }
