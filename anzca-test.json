@@ -53,7 +53,22 @@
     "dyn": 0, 
     "extendNew": 10, 
     "extendRev": 50, 
-    "media_files": [], 
+    "media_files": [
+        "12f66a7b20df4ef8a92b4873da5044df-aa-2-Q.svg", 
+        "larynx2.jpeg", 
+        "12f66a7b20df4ef8a92b4873da5044df-aa-4-A.svg", 
+        "12f66a7b20df4ef8a92b4873da5044df-aa-3-A.svg", 
+        "12f66a7b20df4ef8a92b4873da5044df-aa-1-A.svg", 
+        "12f66a7b20df4ef8a92b4873da5044df-aa-5-A.svg", 
+        "12f66a7b20df4ef8a92b4873da5044df-aa-6-A.svg", 
+        "12f66a7b20df4ef8a92b4873da5044df-aa-O.svg", 
+        "12f66a7b20df4ef8a92b4873da5044df-aa-2-A.svg", 
+        "12f66a7b20df4ef8a92b4873da5044df-aa-1-Q.svg", 
+        "12f66a7b20df4ef8a92b4873da5044df-aa-4-Q.svg", 
+        "12f66a7b20df4ef8a92b4873da5044df-aa-3-Q.svg", 
+        "12f66a7b20df4ef8a92b4873da5044df-aa-6-Q.svg", 
+        "12f66a7b20df4ef8a92b4873da5044df-aa-5-Q.svg"
+    ], 
     "mid": "1480083502948", 
     "name": "anzca-test", 
     "note_models": [
@@ -108,6 +123,139 @@
             ], 
             "type": 0, 
             "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "2ed3b9e1-41b9-11e7-afbe-0025bcdd42f8", 
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE */\n\n.card .mobile, #content .mobile {\n  font-size: 100%;\n  margin: 0;\n}\n\n#io-extra-wrapper .mobile {\n  width: 95%;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "ID (hidden)", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Header", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Image", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Footer", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Remarks", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Sources", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra 1", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra 2", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Question Mask", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Answer Mask", 
+                    "ord": 9, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Original Mask", 
+                    "ord": 10, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Image Occlusion Enhanced", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        2
+                    ]
+                ]
+            ], 
+            "sortf": 1, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "IO Card", 
+                    "ord": 0, 
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
         }
     ], 
     "notes": [
@@ -121,6 +269,132 @@
             "flags": 0, 
             "guid": "I9.;Fjv+LI", 
             "note_model_uuid": "e0b5aad1-3fb9-11e7-a6a2-0025bcdd42f8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "12f66a7b20df4ef8a92b4873da5044df-aa-1", 
+                "", 
+                "<img src=\"larynx2.jpeg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-1-Q.svg\" />", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-1-A.svg\" />", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "na5/#EN6qU", 
+            "note_model_uuid": "2ed3b9e1-41b9-11e7-afbe-0025bcdd42f8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "12f66a7b20df4ef8a92b4873da5044df-aa-2", 
+                "", 
+                "<img src=\"larynx2.jpeg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-2-Q.svg\" />", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-2-A.svg\" />", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "QU{|ASNlK^", 
+            "note_model_uuid": "2ed3b9e1-41b9-11e7-afbe-0025bcdd42f8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "12f66a7b20df4ef8a92b4873da5044df-aa-3", 
+                "", 
+                "<img src=\"larynx2.jpeg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-3-Q.svg\" />", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-3-A.svg\" />", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "re[htE~<Og", 
+            "note_model_uuid": "2ed3b9e1-41b9-11e7-afbe-0025bcdd42f8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "12f66a7b20df4ef8a92b4873da5044df-aa-4", 
+                "", 
+                "<img src=\"larynx2.jpeg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-4-Q.svg\" />", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-4-A.svg\" />", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "x^cvkSn{NO", 
+            "note_model_uuid": "2ed3b9e1-41b9-11e7-afbe-0025bcdd42f8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "12f66a7b20df4ef8a92b4873da5044df-aa-5", 
+                "", 
+                "<img src=\"larynx2.jpeg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-5-Q.svg\" />", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-5-A.svg\" />", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "cBCQI0RkZa", 
+            "note_model_uuid": "2ed3b9e1-41b9-11e7-afbe-0025bcdd42f8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "12f66a7b20df4ef8a92b4873da5044df-aa-6", 
+                "", 
+                "<img src=\"larynx2.jpeg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-6-Q.svg\" />", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-6-A.svg\" />", 
+                "<img src=\"12f66a7b20df4ef8a92b4873da5044df-aa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "MO?b6r<Nvm", 
+            "note_model_uuid": "2ed3b9e1-41b9-11e7-afbe-0025bcdd42f8", 
             "tags": []
         }
     ]
