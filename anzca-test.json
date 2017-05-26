@@ -54,7 +54,74 @@
     "extendNew": 10, 
     "extendRev": 50, 
     "media_files": [], 
+    "mid": "1480083502948", 
     "name": "anzca-test", 
-    "note_models": [], 
-    "notes": []
+    "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "e0b5aad1-3fb9-11e7-a6a2-0025bcdd42f8", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic-581c0", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }
+    ], 
+    "notes": [
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "chris test 1", 
+                "chris test 1"
+            ], 
+            "flags": 0, 
+            "guid": "I9.;Fjv+LI", 
+            "note_model_uuid": "e0b5aad1-3fb9-11e7-a6a2-0025bcdd42f8", 
+            "tags": []
+        }
+    ]
 }
