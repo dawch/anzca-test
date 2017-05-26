@@ -69,9 +69,79 @@
         "12f66a7b20df4ef8a92b4873da5044df-aa-6-Q.svg", 
         "12f66a7b20df4ef8a92b4873da5044df-aa-5-Q.svg"
     ], 
-    "mid": "1480083502948", 
+    "mid": "1495500596129", 
     "name": "anzca-test", 
     "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Card ID", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Source", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "ANZCA", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}<br>\n<br>\nSource: {{Source}}<br>\n\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
         {
             "__type__": "NoteModel", 
             "crowdanki_uuid": "e0b5aad1-3fb9-11e7-a6a2-0025bcdd42f8", 
@@ -395,6 +465,20 @@
             "flags": 0, 
             "guid": "MO?b6r<Nvm", 
             "note_model_uuid": "2ed3b9e1-41b9-11e7-afbe-0025bcdd42f8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Andrew_Test1", 
+                "Andrew_Test1", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "AjT+<Rj.7Q", 
+            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
             "tags": []
         }
     ]
