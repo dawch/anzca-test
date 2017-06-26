@@ -485,48 +485,6 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Andrew Test 2", 
-                "Test 2", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "cU^^qimId%", 
-            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Andrew_Test 3", 
-                "Test 3", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "jc[hSh9X@d", 
-            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Andrew_Test 4", 
-                "Test 4", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "H:34DC6[8", 
-            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
                 "chris 2", 
                 "chris 2", 
                 "", 
@@ -569,6 +527,48 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
+                "Andrew Test 2", 
+                "Test 2", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "cU^^qimId%", 
+            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Andrew_Test 3", 
+                "Test 3", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "jc[hSh9X@d", 
+            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Andrew_Test 4", 
+                "Test 4", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "H:34DC6[8", 
+            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
                 "chris test 51", 
                 "chris test 51", 
                 "", 
@@ -590,6 +590,20 @@
             ], 
             "flags": 0, 
             "guid": "Q>b.6`9WVl", 
+            "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "june 26 test 2", 
+                "1200", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "GmE~fAM}Fr", 
             "note_model_uuid": "cf6f413a-41bb-11e7-ba9b-f40f241a83b0", 
             "tags": []
         }
